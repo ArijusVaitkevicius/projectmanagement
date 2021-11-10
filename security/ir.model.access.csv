@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_projectmanagement_project,projectmanagement.project,model_projectmanagement_project,base.group_user,1,1,1,1
+access_projectmanagement_job,projectmanagement.job,model_projectmanagement_job,base.group_user,1,1,1,1
+access_projectmanagement_invoice,projectmanagement.invoice,model_projectmanagement_invoice,base.group_user,1,1,1,1
